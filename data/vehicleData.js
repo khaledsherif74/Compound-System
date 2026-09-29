@@ -1,0 +1,106 @@
+
+/* =========================================================
+   VEHICLE COLORS
+========================================================= */
+ const VEHICLE_COLORS = [
+  {
+    name: "White",
+    arabic: "أبيض",
+    value: "White",
+    hex: "#FFFFFF",
+  },
+  {
+    name: "Black",
+    arabic: "أسود",
+    value: "Black",
+    hex: "#111827",
+  },
+  {
+    name: "Gray",
+    arabic: "رمادي",
+    value: "Gray",
+    hex: "#6B7280",
+  },
+  {
+    name: "Silver",
+    arabic: "فضي",
+    value: "Silver",
+    hex: "#C0C0C0",
+  },
+  {
+    name: "Red",
+    arabic: "أحمر",
+    value: "Red",
+    hex: "#EF4444",
+  },
+  {
+    name: "Blue",
+    arabic: "أزرق",
+    value: "Blue",
+    hex: "#3B82F6",
+  },
+  {
+    name: "Dark Blue",
+    arabic: "أزرق داكن",
+    value: "Dark Blue",
+    hex: "#1E3A8A",
+  },
+  {
+    name: "Green",
+    arabic: "أخضر",
+    value: "Green",
+    hex: "#22C55E",
+  },
+  {
+    name: "Dark Green",
+    arabic: "أخضر داكن",
+    value: "Dark Green",
+    hex: "#166534",
+  },
+  {
+    name: "Yellow",
+    arabic: "أصفر",
+    value: "Yellow",
+    hex: "#EAB308",
+  },
+  {
+    name: "Orange",
+    arabic: "برتقالي",
+    value: "Orange",
+    hex: "#F97316",
+  },
+  {
+    name: "Brown",
+    arabic: "بني",
+    value: "Brown",
+    hex: "#92400E",
+  },
+  {
+    name: "Beige",
+    arabic: "بيج",
+    value: "Beige",
+    hex: "#D6C6A5",
+  },
+  {
+    name: "Gold",
+    arabic: "ذهبي",
+    value: "Gold",
+    hex: "#D4AF37",
+  },
+  {
+    name: "Purple",
+    arabic: "بنفسجي",
+    value: "Purple",
+    hex: "#8B5CF6",
+  },
+  {
+    name: "Maroon",
+    arabic: "نبيتي",
+    value: "Maroon",
+    hex: "#800000",
+  },
+];
+
+
+
+export default VEHICLE_COLORS
